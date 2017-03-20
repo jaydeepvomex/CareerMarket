@@ -57,3 +57,4 @@ c:\users\jaydeep.vomexchandra\documents\visual studio 2015\Projects\CareerMarket
 c:\users\jaydeep.vomexchandra\documents\visual studio 2015\Projects\CareerMarket.Web\CareerMarket.Web\obj\Debug\CareerMarket.Web.csprojResolveAssemblyReference.cache
 c:\users\jaydeep.vomexchandra\documents\visual studio 2015\Projects\CareerMarket.Web\CareerMarket.Web\obj\Debug\CareerMarket.Web.dll
 c:\users\jaydeep.vomexchandra\documents\visual studio 2015\Projects\CareerMarket.Web\CareerMarket.Web\obj\Debug\CareerMarket.Web.pdb
+c:\users\jaydeep.vomexchandra\documents\visual studio 2015\Projects\CareerMarket.Web\CareerMarket.Web\bin\WebActivatorEx.dll
